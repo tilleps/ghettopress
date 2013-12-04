@@ -1,0 +1,4 @@
+ghettopress
+===========
+
+Simple blogging platform
